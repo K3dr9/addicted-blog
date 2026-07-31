@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blog | Addicted</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Tree</h1>
+        <nav>
+            <a href="index.html">Home/a>
+            <a href="blog.html">Blog</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Latest Post</h2>
+        <article>
+            <h3>How We Stated Our Brand in Durban I was siting on my bed</h3>
+            <p>Posted: 31 July 2026</p>
+            <p>We are a clothing brand, I was sitting on my bed thinking about something that will joy to people's life because if you feel good you look good. Since they say the sky is the limit we are planning to fyl to galaxy where the stars shy forever after.</p>
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy 2026 Addicted</p>
+    <footer>
+</body>
+</html>                
